@@ -1,1 +1,5 @@
-
+python-telegram-bot
+quotexpy
+pytz
+requests
+flask
